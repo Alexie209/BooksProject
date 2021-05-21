@@ -1,0 +1,3 @@
+Proza, 1, Marile Sperante, Charles Dickens, 50, 350
+Poezie, 2, Luceafarul, Mihai Eminescu, 10, Corint
+Poezie, 1, Scrisoarea I, Mihai Eminescu, 20, ART

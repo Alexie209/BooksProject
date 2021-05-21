@@ -1,0 +1,7 @@
+Proza, 1, Marile Sperante, Charles Dickens, 50, 350
+Poezie, 2, Luceafarul, Mihai Eminescu, 23, Corint
+Proza, 3, Ion, Liviu Rebreanu, 70, 201
+Poezie, 4, Volum de poezii, Vasile Alecsandri, 30, Casa Buna
+Poezie, 5, Scrisoarea I, Mihai Eminescu, 17, ART
+Proza, 6, Moara cu Noroc, Ioan Slavici, 63, 202
+Proza, 7, Harap Alb, Ion Creanga, 43, 232
